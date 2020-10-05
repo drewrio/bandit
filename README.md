@@ -2,6 +2,8 @@
 
 ssh -l bandit11 -p 2220 bandit.labs.overthewire.org
 
+Really need to figure out how to level up without using a new shell window!
+
 bandit 1 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 bandit 2 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
