@@ -1,4 +1,4 @@
-# bandit
+# bandit passwords
 
 ssh -l bandit9 -p 2220 bandit.labs.overthewire.org
 
