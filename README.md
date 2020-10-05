@@ -41,7 +41,9 @@ Helpful Reading Material
 
 https://en.wikipedia.org/wiki/Rot13
 
-cat data.txt
+This was very usful and shows other types of ROT https://www.chmag.in/articles/momsguide/decoding-rot-using-the-echo-and-tr-commands-in-your-linux-terminal/
+
+$ cat data.txt
 
 Gur cnffjbeq vf 5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh
 
