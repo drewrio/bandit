@@ -1,6 +1,6 @@
 # bandit passwords
 
-ssh -l bandit11 -p 2220 bandit.labs.overthewire.org
+ssh -l bandit12 -p 2220 bandit.labs.overthewire.org
 
 bandit 1 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
@@ -26,4 +26,18 @@ bandit 11 IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 
 bandit 12 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 
+bandit 13 
 
+
+
+Level Goal
+
+The password for the next level is stored in the file data.txt, which is a hexdump of a file that has been repeatedly compressed. For this level it may be useful to create a directory under /tmp in which you can work using mkdir. For example: mkdir /tmp/myname123. Then copy the datafile using cp, and rename it using mv (read the manpages!)
+
+Commands you may need to solve this level
+
+grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd, mkdir, cp, mv, file
+
+Helpful Reading Material
+
+https://en.wikipedia.org/wiki/Hex_dump
