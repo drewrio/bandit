@@ -41,3 +41,7 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd, mkdir, cp, mv, fil
 Helpful Reading Material
 
 https://en.wikipedia.org/wiki/Hex_dump
+
+$ mkdir -v /tmp/drewrio1   (-v gives feed back)
+
+to view created directory $ cd /tmp/drewrio1
